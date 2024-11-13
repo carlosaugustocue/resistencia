@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="resistencia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/resistencia_jar</output-path>
+    <root id="archive" name="resistencia.jar">
+      <element id="module-output" name="resistencia" />
+    </root>
+  </artifact>
+</component>
